@@ -1,5 +1,5 @@
 ---
-title: Swift의 메모리 회수 정책
+title: Swift의 메모리 회수 정책 ARC
 date: 2023-01-11 22:00:00 +0900
 categories: [Programming, Swift]
 tags: [swift, ARC]     # TAG names should always be lowercase
